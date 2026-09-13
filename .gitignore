@@ -33,3 +33,13 @@ scratch/
 # ---- 构建产物 ----
 build/
 dist/
+
+# ---- 字面量百分号路径残留（防御）----
+# 起因：给 git 传了缺 SystemDrive 的精简 env，Windows 会把 %SystemDrive%\... 当相对路径
+# 写到当前目录下。同类还有 %windir%、%TEMP% 等。详见 skill leetcode-note-sync 常见坑。
+%SystemDrive%/
+%windir%/
+%TEMP%/
+%TMP%/
+%APPDATA%/
+%USERPROFILE%/
