@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-2-blue)
+![Notes](https://img.shields.io/badge/notes-3-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -90,6 +90,7 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 1100 | [长度为 K 的无重复字符子串](04-two-pointers/1100-%E9%95%BF%E5%BA%A6%E4%B8%BAK%E7%9A%84%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E5%AD%90%E4%B8%B2.md) | 🟡 中等 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/) |
 | 1176 | [健身计划评估](04-two-pointers/1176-%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.md) | 🟢 简单 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/diet-plan-performance/) |
+| 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
 <!-- INDEX:END -->
 
 ---
@@ -99,10 +100,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 2 |
-| **合计** | **2** |
+| 双指针与滑动窗口 | 3 |
+| **合计** | **3** |
 
-_按难度分布：简单 1 · 中等 1 · 困难 0_
+_按难度分布：简单 1 · 中等 2 · 困难 0_
 <!-- STATS:END -->
 
 ---
