@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-0-blue)
+![Notes](https://img.shields.io/badge/notes-1-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -84,7 +84,11 @@ date: 2026-09-13
 ## 笔记索引
 
 <!-- INDEX:START -->
-_暂无笔记。_
+### 双指针与滑动窗口 <sub>`04-two-pointers`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 1176 | [健身计划评估](04-two-pointers/1176-%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.md) | 🟢 简单 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/diet-plan-performance/) |
 <!-- INDEX:END -->
 
 ---
@@ -94,9 +98,10 @@ _暂无笔记。_
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| **合计** | **0** |
+| 双指针与滑动窗口 | 1 |
+| **合计** | **1** |
 
-_按难度分布：简单 0 · 中等 0 · 困难 0_
+_按难度分布：简单 1 · 中等 0 · 困难 0_
 <!-- STATS:END -->
 
 ---
