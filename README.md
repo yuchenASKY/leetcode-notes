@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-10-blue)
+![Notes](https://img.shields.io/badge/notes-11-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -93,6 +93,7 @@ date: 2026-09-13
 | 1100 | [长度为 K 的无重复字符子串](04-two-pointers/1100-%E9%95%BF%E5%BA%A6%E4%B8%BAK%E7%9A%84%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E5%AD%90%E4%B8%B2.md) | 🟡 中等 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/) |
 | 1151 | [最少交换次数来组合所有的 1](04-two-pointers/1151-%E6%9C%80%E5%B0%91%E4%BA%A4%E6%8D%A2%E6%AC%A1%E6%95%B0%E6%9D%A5%E7%BB%84%E5%90%88%E6%89%80%E6%9C%89%E7%9A%841.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together/) |
 | 1176 | [健身计划评估](04-two-pointers/1176-%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.md) | 🟢 简单 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/diet-plan-performance/) |
+| 1493 | [删掉一个元素以后全为 1 的最长子数组](04-two-pointers/1493-%E5%88%A0%E6%8E%89%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0%E4%BB%A5%E5%90%8E%E5%85%A8%E4%B8%BA1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) |
 | 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
 | 2107 | [分享 K 个糖果后独特口味的数量](04-two-pointers/2107-%E5%88%86%E4%BA%ABK%E4%B8%AA%E7%B3%96%E6%9E%9C%E5%90%8E%E7%8B%AC%E7%89%B9%E5%8F%A3%E5%91%B3%E7%9A%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/number-of-unique-flavors-after-sharing-k-candies/) |
 | 3090 | [每个字符最多出现两次的最长子字符串](04-two-pointers/3090-%E6%AF%8F%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%9C%80%E5%A4%9A%E5%87%BA%E7%8E%B0%E4%B8%A4%E6%AC%A1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟢 简单 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) |
@@ -107,10 +108,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 10 |
-| **合计** | **10** |
+| 双指针与滑动窗口 | 11 |
+| **合计** | **11** |
 
-_按难度分布：简单 2 · 中等 8 · 困难 0_
+_按难度分布：简单 2 · 中等 9 · 困难 0_
 <!-- STATS:END -->
 
 ---
