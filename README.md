@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-6-blue)
+![Notes](https://img.shields.io/badge/notes-7-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -94,6 +94,7 @@ date: 2026-09-13
 | 1176 | [健身计划评估](04-two-pointers/1176-%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.md) | 🟢 简单 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/diet-plan-performance/) |
 | 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
 | 2107 | [分享 K 个糖果后独特口味的数量](04-two-pointers/2107-%E5%88%86%E4%BA%ABK%E4%B8%AA%E7%B3%96%E6%9E%9C%E5%90%8E%E7%8B%AC%E7%89%B9%E5%8F%A3%E5%91%B3%E7%9A%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/number-of-unique-flavors-after-sharing-k-candies/) |
+| 3679 | [使库存平衡的最少丢弃次数](04-two-pointers/3679-%E4%BD%BF%E5%BA%93%E5%AD%98%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E4%B8%A2%E5%BC%83%E6%AC%A1%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-discards-to-balance-inventory/) |
 <!-- INDEX:END -->
 
 ---
@@ -103,10 +104,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 6 |
-| **合计** | **6** |
+| 双指针与滑动窗口 | 7 |
+| **合计** | **7** |
 
-_按难度分布：简单 1 · 中等 5 · 困难 0_
+_按难度分布：简单 1 · 中等 6 · 困难 0_
 <!-- STATS:END -->
 
 ---
