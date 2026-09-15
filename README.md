@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-15-blue)
+![Notes](https://img.shields.io/badge/notes-16-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -99,6 +99,7 @@ date: 2026-09-13
 | 1695 | [删除子数组的最大得分](04-two-pointers/1695-%E5%88%A0%E9%99%A4%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/maximum-erasure-value/) |
 | 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
 | 2107 | [分享 K 个糖果后独特口味的数量](04-two-pointers/2107-%E5%88%86%E4%BA%ABK%E4%B8%AA%E7%B3%96%E6%9E%9C%E5%90%8E%E7%8B%AC%E7%89%B9%E5%8F%A3%E5%91%B3%E7%9A%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/number-of-unique-flavors-after-sharing-k-candies/) |
+| 2958 | [最多 K 个重复元素的最长子数组](04-two-pointers/2958-%E6%9C%80%E5%A4%9AK%E4%B8%AA%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/) |
 | 3090 | [每个字符最多出现两次的最长子字符串](04-two-pointers/3090-%E6%AF%8F%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%9C%80%E5%A4%9A%E5%87%BA%E7%8E%B0%E4%B8%A4%E6%AC%A1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟢 简单 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) |
 | 3439 | [重新安排会议得到最多空余时间 I](04-two-pointers/3439-%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E4%BC%9A%E8%AE%AE%E5%BE%97%E5%88%B0%E6%9C%80%E5%A4%9A%E7%A9%BA%E4%BD%99%E6%97%B6%E9%97%B4I.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) |
 | 3634 | [使数组平衡的最少移除数目](04-two-pointers/3634-%E4%BD%BF%E6%95%B0%E7%BB%84%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%BB%E9%99%A4%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 排序 · 滑动窗口 · 双指针 | [LeetCode](https://leetcode.cn/problems/minimum-removals-to-balance-array/) |
@@ -112,10 +113,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 15 |
-| **合计** | **15** |
+| 双指针与滑动窗口 | 16 |
+| **合计** | **16** |
 
-_按难度分布：简单 2 · 中等 13 · 困难 0_
+_按难度分布：简单 2 · 中等 14 · 困难 0_
 <!-- STATS:END -->
 
 ---
