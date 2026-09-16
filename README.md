@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-25-blue)
+![Notes](https://img.shields.io/badge/notes-26-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -97,6 +97,7 @@ date: 2026-09-13
 | 1151 | [最少交换次数来组合所有的 1](04-two-pointers/1151-%E6%9C%80%E5%B0%91%E4%BA%A4%E6%8D%A2%E6%AC%A1%E6%95%B0%E6%9D%A5%E7%BB%84%E5%90%88%E6%89%80%E6%9C%89%E7%9A%841.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together/) |
 | 1176 | [健身计划评估](04-two-pointers/1176-%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.md) | 🟢 简单 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/diet-plan-performance/) |
 | 1208 | [尽可能使字符串相等](04-two-pointers/1208-%E5%B0%BD%E5%8F%AF%E8%83%BD%E4%BD%BF%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E7%AD%89.md) | 🟡 中等 | 字符串 · 滑动窗口 · 前缀和 · 二分查找 | [LeetCode](https://leetcode.cn/problems/get-equal-substrings-within-budget/) |
+| 1234 | [替换子串得到平衡字符串](04-two-pointers/1234-%E6%9B%BF%E6%8D%A2%E5%AD%90%E4%B8%B2%E5%BE%97%E5%88%B0%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟡 中等 | 字符串 · 滑动窗口 · 计数 | [LeetCode](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/) |
 | 1493 | [删掉一个元素以后全为 1 的最长子数组](04-two-pointers/1493-%E5%88%A0%E6%8E%89%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0%E4%BB%A5%E5%90%8E%E5%85%A8%E4%B8%BA1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) |
 | 1695 | [删除子数组的最大得分](04-two-pointers/1695-%E5%88%A0%E9%99%A4%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/maximum-erasure-value/) |
 | 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
@@ -122,10 +123,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 25 |
-| **合计** | **25** |
+| 双指针与滑动窗口 | 26 |
+| **合计** | **26** |
 
-_按难度分布：简单 2 · 中等 23 · 困难 0_
+_按难度分布：简单 2 · 中等 24 · 困难 0_
 <!-- STATS:END -->
 
 ---
