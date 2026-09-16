@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-31-blue)
+![Notes](https://img.shields.io/badge/notes-32-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -106,6 +106,7 @@ date: 2026-09-13
 | 1852 | [每个子数组的数字种类数](04-two-pointers/1852-%E6%AF%8F%E4%B8%AA%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E5%AD%97%E7%A7%8D%E7%B1%BB%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/) |
 | 2024 | [考试的最大困扰度](04-two-pointers/2024-%E8%80%83%E8%AF%95%E7%9A%84%E6%9C%80%E5%A4%A7%E5%9B%B0%E6%89%B0%E5%BA%A6.md) | 🟡 中等 | 字符串 · 滑动窗口 · 前缀和 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/) |
 | 2107 | [分享 K 个糖果后独特口味的数量](04-two-pointers/2107-%E5%88%86%E4%BA%ABK%E4%B8%AA%E7%B3%96%E6%9E%9C%E5%90%8E%E7%8B%AC%E7%89%B9%E5%8F%A3%E5%91%B3%E7%9A%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/number-of-unique-flavors-after-sharing-k-candies/) |
+| 2302 | [统计得分小于 K 的子数组数目](04-two-pointers/2302-%E7%BB%9F%E8%AE%A1%E5%BE%97%E5%88%86%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE.md) | 🔴 困难 | 数组 · 二分查找 · 前缀和 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) |
 | 2730 | [找到最长的半重复子字符串](04-two-pointers/2730-%E6%89%BE%E5%88%B0%E6%9C%80%E9%95%BF%E7%9A%84%E5%8D%8A%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟡 中等 | 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/) |
 | 2779 | [数组的最大美丽值](04-two-pointers/2779-%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E7%BE%8E%E4%B8%BD%E5%80%BC.md) | 🟡 中等 | 数组 · 排序 · 滑动窗口 · 双指针 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/) |
 | 2875 | [无限数组的最短子数组](04-two-pointers/2875-%E6%97%A0%E9%99%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array/) |
@@ -128,10 +129,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 31 |
-| **合计** | **31** |
+| 双指针与滑动窗口 | 32 |
+| **合计** | **32** |
 
-_按难度分布：简单 3 · 中等 26 · 困难 2_
+_按难度分布：简单 3 · 中等 26 · 困难 3_
 <!-- STATS:END -->
 
 ---
