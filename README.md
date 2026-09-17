@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-36-blue)
+![Notes](https://img.shields.io/badge/notes-37-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -115,6 +115,7 @@ date: 2026-09-13
 | 2875 | [无限数组的最短子数组](04-two-pointers/2875-%E6%97%A0%E9%99%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array/) |
 | 2904 | [最短且字典序最小的美丽子字符串](04-two-pointers/2904-%E6%9C%80%E7%9F%AD%E4%B8%94%E5%AD%97%E5%85%B8%E5%BA%8F%E6%9C%80%E5%B0%8F%E7%9A%84%E7%BE%8E%E4%B8%BD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟡 中等 | 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/) |
 | 2958 | [最多 K 个重复元素的最长子数组](04-two-pointers/2958-%E6%9C%80%E5%A4%9AK%E4%B8%AA%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/) |
+| 2962 | [统计最大元素出现至少 K 次的子数组](04-two-pointers/2962-%E7%BB%9F%E8%AE%A1%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%20K%20%E6%AC%A1%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times/) |
 | 3090 | [每个字符最多出现两次的最长子字符串](04-two-pointers/3090-%E6%AF%8F%E4%B8%AA%E5%AD%97%E7%AC%A6%E6%9C%80%E5%A4%9A%E5%87%BA%E7%8E%B0%E4%B8%A4%E6%AC%A1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 🟢 简单 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) |
 | 3258 | [统计满足 K 约束的子字符串数量 I](04-two-pointers/3258-%E7%BB%9F%E8%AE%A1%E6%BB%A1%E8%B6%B3%20K%20%E7%BA%A6%E6%9D%9F%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0%E9%87%8F%20I.md) | 🟢 简单 | 滑动窗口 · 字符串 · 计数 | [LeetCode](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/) |
 | 3439 | [重新安排会议得到最多空余时间 I](04-two-pointers/3439-%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E4%BC%9A%E8%AE%AE%E5%BE%97%E5%88%B0%E6%9C%80%E5%A4%9A%E7%A9%BA%E4%BD%99%E6%97%B6%E9%97%B4I.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) |
@@ -133,10 +134,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 36 |
-| **合计** | **36** |
+| 双指针与滑动窗口 | 37 |
+| **合计** | **37** |
 
-_按难度分布：简单 3 · 中等 30 · 困难 3_
+_按难度分布：简单 3 · 中等 31 · 困难 3_
 <!-- STATS:END -->
 
 ---
