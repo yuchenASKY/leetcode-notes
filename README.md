@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-43-blue)
+![Notes](https://img.shields.io/badge/notes-44-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -94,6 +94,7 @@ date: 2026-09-13
 | 632 | [最小区间](04-two-pointers/632-%E6%9C%80%E5%B0%8F%E5%8C%BA%E9%97%B4.md) | 🔴 困难 | 数组 · 哈希表 · 滑动窗口 · 排序 · 堆（优先队列） | [LeetCode](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/) |
 | 713 | [乘积小于 K 的子数组](04-two-pointers/713-%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/subarray-product-less-than-k/) |
 | 904 | [水果成篮](04-two-pointers/904-%E6%B0%B4%E6%9E%9C%E6%88%90%E7%AF%AE.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/fruit-into-baskets/) |
+| 930 | [和相同的二元子数组](04-two-pointers/930-%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%8C%E5%85%83%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 · 前缀和 · 哈希表 | [LeetCode](https://leetcode.cn/problems/binary-subarrays-with-sum/) |
 | 1004 | [最大连续1的个数 III](04-two-pointers/1004-%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0III.md) | 🟡 中等 | 数组 · 二分查找 · 前缀和 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/max-consecutive-ones-iii/) |
 | 1052 | [爱生气的书店老板](04-two-pointers/1052-%E7%88%B1%E7%94%9F%E6%B0%94%E7%9A%84%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/grumpy-bookstore-owner/) |
 | 1100 | [长度为 K 的无重复字符子串](04-two-pointers/1100-%E9%95%BF%E5%BA%A6%E4%B8%BAK%E7%9A%84%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E5%AD%90%E4%B8%B2.md) | 🟡 中等 | 哈希表 · 字符串 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/) |
@@ -140,10 +141,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 43 |
-| **合计** | **43** |
+| 双指针与滑动窗口 | 44 |
+| **合计** | **44** |
 
-_按难度分布：简单 4 · 中等 35 · 困难 4_
+_按难度分布：简单 4 · 中等 36 · 困难 4_
 <!-- STATS:END -->
 
 ---
