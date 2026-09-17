@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-33-blue)
+![Notes](https://img.shields.io/badge/notes-34-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -121,6 +121,7 @@ date: 2026-09-13
 | 3679 | [使库存平衡的最少丢弃次数](04-two-pointers/3679-%E4%BD%BF%E5%BA%93%E5%AD%98%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E4%B8%A2%E5%BC%83%E6%AC%A1%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-discards-to-balance-inventory/) |
 | 3795 | [不同元素和至少为 K 的最短子数组长度](04-two-pointers/3795-%E4%B8%8D%E5%90%8C%E5%85%83%E7%B4%A0%E5%92%8C%E8%87%B3%E5%B0%91%E4%B8%BA%20K%20%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84%E9%95%BF%E5%BA%A6.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) |
 | 4032 | [至多 K 个不同质因数集合的最长子数组](04-two-pointers/4032-%E8%87%B3%E5%A4%9AK%E4%B8%AA%E4%B8%8D%E5%90%8C%E8%B4%A8%E5%9B%A0%E6%95%B0%E9%9B%86%E5%90%88%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 · 数论 | [LeetCode](https://leetcode.cn/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) |
+| LCP 68 | [美观的花束](04-two-pointers/LCP%2068-%E7%BE%8E%E8%A7%82%E7%9A%84%E8%8A%B1%E6%9D%9F.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/1GxJYY/) |
 <!-- INDEX:END -->
 
 ---
@@ -130,10 +131,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 33 |
-| **合计** | **33** |
+| 双指针与滑动窗口 | 34 |
+| **合计** | **34** |
 
-_按难度分布：简单 3 · 中等 27 · 困难 3_
+_按难度分布：简单 3 · 中等 28 · 困难 3_
 <!-- STATS:END -->
 
 ---
