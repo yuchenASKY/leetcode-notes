@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-48-blue)
+![Notes](https://img.shields.io/badge/notes-49-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -93,6 +93,7 @@ date: 2026-09-13
 | 209 | [长度最小的子数组](04-two-pointers/209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 二分查找 · 前缀和 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-size-subarray-sum/) |
 | 632 | [最小区间](04-two-pointers/632-%E6%9C%80%E5%B0%8F%E5%8C%BA%E9%97%B4.md) | 🔴 困难 | 数组 · 哈希表 · 滑动窗口 · 排序 · 堆（优先队列） | [LeetCode](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/) |
 | 713 | [乘积小于 K 的子数组](04-two-pointers/713-%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/subarray-product-less-than-k/) |
+| 825 | [适龄的朋友](04-two-pointers/825-%E9%80%82%E9%BE%84%E7%9A%84%E6%9C%8B%E5%8F%8B.md) | 🟡 中等 | 数组 · 双指针 · 滑动窗口 · 计数 | [LeetCode](https://leetcode.cn/problems/friends-of-appropriate-ages/) |
 | 904 | [水果成篮](04-two-pointers/904-%E6%B0%B4%E6%9E%9C%E6%88%90%E7%AF%AE.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/fruit-into-baskets/) |
 | 930 | [和相同的二元子数组](04-two-pointers/930-%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%8C%E5%85%83%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 滑动窗口 · 前缀和 · 哈希表 | [LeetCode](https://leetcode.cn/problems/binary-subarrays-with-sum/) |
 | 992 | [K 个不同整数的子数组](04-two-pointers/992-K%E4%B8%AA%E4%B8%8D%E5%90%8C%E6%95%B4%E6%95%B0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🔴 困难 | 数组 · 哈希表 · 滑动窗口 · 计数 | [LeetCode](https://leetcode.cn/problems/subarrays-with-k-different-integers/) |
@@ -145,10 +146,10 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 双指针与滑动窗口 | 48 |
-| **合计** | **48** |
+| 双指针与滑动窗口 | 49 |
+| **合计** | **49** |
 
-_按难度分布：简单 4 · 中等 38 · 困难 6_
+_按难度分布：简单 4 · 中等 39 · 困难 6_
 <!-- STATS:END -->
 
 ---
