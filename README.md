@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-57-blue)
+![Notes](https://img.shields.io/badge/notes-58-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -149,6 +149,7 @@ date: 2026-09-13
 | 744 | [寻找比目标字母大的最小字母](05-binary-search/744-%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 🟢 简单 | 二分查找 · 数组 | [LeetCode](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) |
 | 1170 | [比较字符串最小字母出现频次](05-binary-search/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) |
 | 1385 | [两个数组间的距离值](05-binary-search/1385-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%80%BC.md) | 🟢 简单 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) |
+| 2300 | [咒语和药水的成功对数](05-binary-search/2300-%E5%92%92%E8%AF%AD%E5%92%8C%E8%8D%AF%E6%B0%B4%E7%9A%84%E6%88%90%E5%8A%9F%E5%AF%B9%E6%95%B0.md) | 🟡 中等 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/) |
 | 2529 | [正整数和负整数的最大计数](05-binary-search/2529-%E6%AD%A3%E6%95%B4%E6%95%B0%E5%92%8C%E8%B4%9F%E6%95%B4%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%A1%E6%95%B0.md) | 🟢 简单 | 数组 · 二分查找 · 计数 | [LeetCode](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/) |
 <!-- INDEX:END -->
 
@@ -160,10 +161,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 6 |
-| **合计** | **57** |
+| 二分查找 | 7 |
+| **合计** | **58** |
 
-_按难度分布：简单 8 · 中等 43 · 困难 6_
+_按难度分布：简单 8 · 中等 44 · 困难 6_
 <!-- STATS:END -->
 
 ---
