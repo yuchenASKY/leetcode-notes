@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-51-blue)
+![Notes](https://img.shields.io/badge/notes-52-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -139,6 +139,12 @@ date: 2026-09-13
 | 3859 | [统计包含 K 个不同整数的子数组](04-two-pointers/3859-%E7%BB%9F%E8%AE%A1%E5%8C%85%E5%90%AB%20K%20%E4%B8%AA%E4%B8%8D%E5%90%8C%E6%95%B4%E6%95%B0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🔴 困难 | 滑窗 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/count-subarrays-with-k-distinct-integers/) |
 | 4032 | [至多 K 个不同质因数集合的最长子数组](04-two-pointers/4032-%E8%87%B3%E5%A4%9AK%E4%B8%AA%E4%B8%8D%E5%90%8C%E8%B4%A8%E5%9B%A0%E6%95%B0%E9%9B%86%E5%90%88%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 · 数论 | [LeetCode](https://leetcode.cn/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) |
 | LCP 68 | [美观的花束](04-two-pointers/LCP%2068-%E7%BE%8E%E8%A7%82%E7%9A%84%E8%8A%B1%E6%9D%9F.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/1GxJYY/) |
+
+### 二分查找 <sub>`05-binary-search`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](05-binary-search/34-%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 <!-- INDEX:END -->
 
 ---
@@ -149,9 +155,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| **合计** | **51** |
+| 二分查找 | 1 |
+| **合计** | **52** |
 
-_按难度分布：简单 4 · 中等 41 · 困难 6_
+_按难度分布：简单 4 · 中等 42 · 困难 6_
 <!-- STATS:END -->
 
 ---
