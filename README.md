@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-67-blue)
+![Notes](https://img.shields.io/badge/notes-68-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -148,6 +148,7 @@ date: 2026-09-13
 | 658 | [找到 K 个最接近的元素](05-binary-search/658-%E6%89%BE%E5%88%B0K%E4%B8%AA%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E5%85%83%E7%B4%A0.md) | 🟡 中等 | 数组 · 二分查找 · 双指针 | [LeetCode](https://leetcode.cn/problems/find-k-closest-elements/) |
 | 704 | [二分查找](05-binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 🟢 简单 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/binary-search/) |
 | 744 | [寻找比目标字母大的最小字母](05-binary-search/744-%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 🟢 简单 | 二分查找 · 数组 | [LeetCode](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) |
+| 911 | [在线选举](05-binary-search/911-%E5%9C%A8%E7%BA%BF%E9%80%89%E4%B8%BE.md) | 🟡 中等 | 设计 · 数组 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/online-election/) |
 | 981 | [基于时间的键值存储](05-binary-search/981-%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 🟡 中等 | 设计 · 哈希表 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/time-based-key-value-store/) |
 | 1146 | [快照数组](05-binary-search/1146-%E5%BF%AB%E7%85%A7%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 设计 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/snapshot-array/) |
 | 1170 | [比较字符串最小字母出现频次](05-binary-search/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) |
@@ -170,10 +171,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 16 |
-| **合计** | **67** |
+| 二分查找 | 17 |
+| **合计** | **68** |
 
-_按难度分布：简单 9 · 中等 52 · 困难 6_
+_按难度分布：简单 9 · 中等 53 · 困难 6_
 <!-- STATS:END -->
 
 ---
