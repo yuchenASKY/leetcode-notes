@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-69-blue)
+![Notes](https://img.shields.io/badge/notes-70-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -152,6 +152,7 @@ date: 2026-09-13
 | 981 | [基于时间的键值存储](05-binary-search/981-%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 🟡 中等 | 设计 · 哈希表 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/time-based-key-value-store/) |
 | 1146 | [快照数组](05-binary-search/1146-%E5%BF%AB%E7%85%A7%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 设计 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/snapshot-array/) |
 | 1170 | [比较字符串最小字母出现频次](05-binary-search/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) |
+| 1182 | [与目标颜色间的最短距离](05-binary-search/1182-%E4%B8%8E%E7%9B%AE%E6%A0%87%E9%A2%9C%E8%89%B2%E9%97%B4%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md) | 🟡 中等 | 数组 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/shortest-distance-to-target-color/) |
 | 1385 | [两个数组间的距离值](05-binary-search/1385-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%80%BC.md) | 🟢 简单 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) |
 | 1818 | [绝对差值和](05-binary-search/1818-%E7%BB%9D%E5%AF%B9%E5%B7%AE%E5%80%BC%E5%92%8C.md) | 🟡 中等 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/minimum-absolute-sum-difference/) |
 | 2080 | [区间内查询数字的频率](05-binary-search/2080-%E5%8C%BA%E9%97%B4%E5%86%85%E6%9F%A5%E8%AF%A2%E6%95%B0%E5%AD%97%E7%9A%84%E9%A2%91%E7%8E%87.md) | 🟡 中等 | 设计 · 线段树 · 数组 · 哈希表 · 二分查找 | [LeetCode](https://leetcode.cn/problems/range-frequency-queries/) |
@@ -172,10 +173,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 18 |
-| **合计** | **69** |
+| 二分查找 | 19 |
+| **合计** | **70** |
 
-_按难度分布：简单 9 · 中等 54 · 困难 6_
+_按难度分布：简单 9 · 中等 55 · 困难 6_
 <!-- STATS:END -->
 
 ---
