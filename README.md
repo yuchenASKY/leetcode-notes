@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-82-blue)
+![Notes](https://img.shields.io/badge/notes-83-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -168,6 +168,7 @@ date: 2026-09-13
 | 2563 | [统计公平数对的数目](05-binary-search/2563-%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%B9%B3%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 双指针 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/count-the-number-of-fair-pairs/) |
 | 2594 | [修车的最少时间](05-binary-search/2594-%E4%BF%AE%E8%BD%A6%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 二分 · 数组 | [LeetCode](https://leetcode.cn/problems/minimum-time-to-repair-cars/) |
 | 2819 | [购买巧克力后的最小相对损失](05-binary-search/2819-%E8%B4%AD%E4%B9%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%90%8E%E7%9A%84%E6%9C%80%E5%B0%8F%E7%9B%B8%E5%AF%B9%E6%8D%9F%E5%A4%B1.md) | 🔴 困难 | 数组 · 二分查找 · 前缀和 · 排序 | [LeetCode](https://leetcode.cn/problems/minimum-relative-loss-after-buying-chocolates/) |
+| 3048 | [标记所有下标的最早秒数 I](05-binary-search/3048-%E6%A0%87%E8%AE%B0%E6%89%80%E6%9C%89%E4%B8%8B%E6%A0%87%E7%9A%84%E6%9C%80%E6%97%A9%E7%A7%92%E6%95%B0%20I.md) | 🟡 中等 | 数组 · 二分查找 · 贪心 | [LeetCode](https://leetcode.cn/problems/earliest-second-to-mark-indices-i/) |
 | 3296 | [移山所需的最少秒数](05-binary-search/3296-%E7%A7%BB%E5%B1%B1%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%92%E6%95%B0.md) | 🟡 中等 | 二分查找 · 二分答案 · 数组 · 数学 | [LeetCode](https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) |
 | 3488 | [距离最小相等元素查询](05-binary-search/3488-%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%B0%8F%E7%9B%B8%E7%AD%89%E5%85%83%E7%B4%A0%E6%9F%A5%E8%AF%A2.md) | 🟡 中等 | 二分查找 · 数组 · 哈希表 · 环形数组 · 预处理 | [LeetCode](https://leetcode.cn/problems/closest-equal-element-queries/) |
 | 3508 | [设计路由器](05-binary-search/3508-%E8%AE%BE%E8%AE%A1%E8%B7%AF%E7%94%B1%E5%99%A8.md) | 🟡 中等 | 设计 · 队列 · 哈希表 · 二分查找 | [LeetCode](https://leetcode.cn/problems/implement-router/) |
@@ -185,10 +186,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 31 |
-| **合计** | **82** |
+| 二分查找 | 32 |
+| **合计** | **83** |
 
-_按难度分布：简单 9 · 中等 65 · 困难 8_
+_按难度分布：简单 9 · 中等 66 · 困难 8_
 <!-- STATS:END -->
 
 ---
