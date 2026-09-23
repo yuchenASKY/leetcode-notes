@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-94-blue)
+![Notes](https://img.shields.io/badge/notes-95-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -178,6 +178,7 @@ date: 2026-09-13
 | 2819 | [购买巧克力后的最小相对损失](05-binary-search/2819-%E8%B4%AD%E4%B9%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%90%8E%E7%9A%84%E6%9C%80%E5%B0%8F%E7%9B%B8%E5%AF%B9%E6%8D%9F%E5%A4%B1.md) | 🔴 困难 | 数组 · 二分查找 · 前缀和 · 排序 | [LeetCode](https://leetcode.cn/problems/minimum-relative-loss-after-buying-chocolates/) |
 | 2861 | [最大合金数](05-binary-search/2861-%E6%9C%80%E5%A4%A7%E5%90%88%E9%87%91%E6%95%B0.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-number-of-alloys/) |
 | 2982 | [找出出现至少三次的最长特殊子字符串 II](05-binary-search/2982-%E6%89%BE%E5%87%BA%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%E4%B8%89%E6%AC%A1%E7%9A%84%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.md) | 🟡 中等 | 字符串 · 二分查找 · 滑动窗口 · 哈希表 | [LeetCode](https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-ii/) |
+| 3007 | [价值和小于等于 K 的最大数字](05-binary-search/3007-%E4%BB%B7%E5%80%BC%E5%92%8C%E5%B0%8F%E4%BA%8E%E7%AD%89%E4%BA%8E%20K%20%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E5%AD%97.md) | 🟡 中等 | 二分查找 · 数位 DP · 位运算 | [LeetCode](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) |
 | 3048 | [标记所有下标的最早秒数 I](05-binary-search/3048-%E6%A0%87%E8%AE%B0%E6%89%80%E6%9C%89%E4%B8%8B%E6%A0%87%E7%9A%84%E6%9C%80%E6%97%A9%E7%A7%92%E6%95%B0%20I.md) | 🟡 中等 | 数组 · 二分查找 · 贪心 | [LeetCode](https://leetcode.cn/problems/earliest-second-to-mark-indices-i/) |
 | 3296 | [移山所需的最少秒数](05-binary-search/3296-%E7%A7%BB%E5%B1%B1%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%92%E6%95%B0.md) | 🟡 中等 | 二分查找 · 二分答案 · 数组 · 数学 | [LeetCode](https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) |
 | 3488 | [距离最小相等元素查询](05-binary-search/3488-%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%B0%8F%E7%9B%B8%E7%AD%89%E5%85%83%E7%B4%A0%E6%9F%A5%E8%AF%A2.md) | 🟡 中等 | 二分查找 · 数组 · 哈希表 · 环形数组 · 预处理 | [LeetCode](https://leetcode.cn/problems/closest-equal-element-queries/) |
@@ -197,10 +198,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 43 |
-| **合计** | **94** |
+| 二分查找 | 44 |
+| **合计** | **95** |
 
-_按难度分布：简单 9 · 中等 75 · 困难 10_
+_按难度分布：简单 9 · 中等 76 · 困难 10_
 <!-- STATS:END -->
 
 ---
