@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-86-blue)
+![Notes](https://img.shields.io/badge/notes-87-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -145,6 +145,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](05-binary-search/34-%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 275 | [H 指数 II](05-binary-search/275-H%20%E6%8C%87%E6%95%B0%20II.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/h-index-ii/) |
 | 475 | [供暖器](05-binary-search/475-%E4%BE%9B%E6%9A%96%E5%99%A8.md) | 🟡 中等 | 二分 · 数组 · 排序 | [LeetCode](https://leetcode.cn/problems/heaters/) |
 | 658 | [找到 K 个最接近的元素](05-binary-search/658-%E6%89%BE%E5%88%B0K%E4%B8%AA%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E5%85%83%E7%B4%A0.md) | 🟡 中等 | 数组 · 二分查找 · 双指针 | [LeetCode](https://leetcode.cn/problems/find-k-closest-elements/) |
 | 704 | [二分查找](05-binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 🟢 简单 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/binary-search/) |
@@ -189,10 +190,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 35 |
-| **合计** | **86** |
+| 二分查找 | 36 |
+| **合计** | **87** |
 
-_按难度分布：简单 9 · 中等 67 · 困难 10_
+_按难度分布：简单 9 · 中等 68 · 困难 10_
 <!-- STATS:END -->
 
 ---
