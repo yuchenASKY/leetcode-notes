@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-89-blue)
+![Notes](https://img.shields.io/badge/notes-90-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -168,6 +168,7 @@ date: 2026-09-13
 | 2389 | [和有限的最长子序列](05-binary-search/2389-%E5%92%8C%E6%9C%89%E9%99%90%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E5%BA%8F%E5%88%97.md) | 🟢 简单 | 贪心 · 数组 · 二分查找 · 前缀和 · 排序 | [LeetCode](https://leetcode.cn/problems/longest-subsequence-with-limited-sum/) |
 | 2529 | [正整数和负整数的最大计数](05-binary-search/2529-%E6%AD%A3%E6%95%B4%E6%95%B0%E5%92%8C%E8%B4%9F%E6%95%B4%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%A1%E6%95%B0.md) | 🟢 简单 | 数组 · 二分查找 · 计数 | [LeetCode](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/) |
 | 2563 | [统计公平数对的数目](05-binary-search/2563-%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%B9%B3%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 双指针 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/count-the-number-of-fair-pairs/) |
+| 2576 | [求出最多标记下标](05-binary-search/2576-%E6%B1%82%E5%87%BA%E6%9C%80%E5%A4%9A%E6%A0%87%E8%AE%B0%E4%B8%8B%E6%A0%87.md) | 🟡 中等 | 二分 | [LeetCode](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/) |
 | 2594 | [修车的最少时间](05-binary-search/2594-%E4%BF%AE%E8%BD%A6%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 二分 · 数组 | [LeetCode](https://leetcode.cn/problems/minimum-time-to-repair-cars/) |
 | 2604 | [吃掉所有谷子的最短时间](05-binary-search/2604-%E5%90%83%E6%8E%89%E6%89%80%E6%9C%89%E8%B0%B7%E5%AD%90%E7%9A%84%E6%9C%80%E7%9F%AD%E6%97%B6%E9%97%B4.md) | 🔴 困难 | 数组 · 二分查找 · 双指针 · 排序 | [LeetCode](https://leetcode.cn/problems/minimum-time-to-eat-all-grains/) |
 | 2702 | [使数字变为非正数的最小操作次数](05-binary-search/2702-%E4%BD%BF%E6%95%B0%E5%AD%97%E5%8F%98%E4%B8%BA%E9%9D%9E%E6%AD%A3%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md) | 🔴 困难 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/minimum-operations-to-make-numbers-non-positive/) |
@@ -192,10 +193,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 38 |
-| **合计** | **89** |
+| 二分查找 | 39 |
+| **合计** | **90** |
 
-_按难度分布：简单 9 · 中等 70 · 困难 10_
+_按难度分布：简单 9 · 中等 71 · 困难 10_
 <!-- STATS:END -->
 
 ---
