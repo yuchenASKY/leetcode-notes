@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-101-blue)
+![Notes](https://img.shields.io/badge/notes-102-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -168,6 +168,7 @@ date: 2026-09-13
 | 1898 | [可移除字符的最大数目](05-binary-search/1898-%E5%8F%AF%E7%A7%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-number-of-removable-characters/) |
 | 2071 | [你可以安排的最多任务数目](05-binary-search/2071-%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%AE%89%E6%8E%92%E7%9A%84%E6%9C%80%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%95%B0%E7%9B%AE.md) | 🔴 困难 | 数组 · 二分查找 · 贪心 · 队列 | [LeetCode](https://leetcode.cn/problems/maximum-number-of-tasks-you-can-assign/) |
 | 2080 | [区间内查询数字的频率](05-binary-search/2080-%E5%8C%BA%E9%97%B4%E5%86%85%E6%9F%A5%E8%AF%A2%E6%95%B0%E5%AD%97%E7%9A%84%E9%A2%91%E7%8E%87.md) | 🟡 中等 | 设计 · 线段树 · 数组 · 哈希表 · 二分查找 | [LeetCode](https://leetcode.cn/problems/range-frequency-queries/) |
+| 2137 | [通过倒水操作让所有的水桶所含水量相等](05-binary-search/2137-%E9%80%9A%E8%BF%87%E5%80%92%E6%B0%B4%E6%93%8D%E4%BD%9C%E8%AE%A9%E6%89%80%E6%9C%89%E7%9A%84%E6%B0%B4%E6%A1%B6%E6%89%80%E5%90%AB%E6%B0%B4%E9%87%8F%E7%9B%B8%E7%AD%89.md) | 🟡 中等 | 二分 · 数组 | [LeetCode](https://leetcode.cn/problems/pour-water-between-buckets-to-make-water-levels-equal/) |
 | 2141 | [同时运行 N 台电脑的最长时间](05-binary-search/2141-%E5%90%8C%E6%97%B6%E8%BF%90%E8%A1%8CN%E5%8F%B0%E7%94%B5%E8%84%91%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4.md) | 🔴 困难 | 二分查找 · 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/maximum-running-time-of-n-computers/) |
 | 2187 | [完成旅途的最少时间](05-binary-search/2187-%E5%AE%8C%E6%88%90%E6%97%85%E9%80%94%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/minimum-time-to-complete-trips/) |
 | 2226 | [每个小孩最多能分到多少糖果](05-binary-search/2226-%E6%AF%8F%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%9C%80%E5%A4%9A%E8%83%BD%E5%88%86%E5%88%B0%E5%A4%9A%E5%B0%91%E7%B3%96%E6%9E%9C.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-candies-allocated-to-k-children/) |
@@ -204,10 +205,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 50 |
-| **合计** | **101** |
+| 二分查找 | 51 |
+| **合计** | **102** |
 
-_按难度分布：简单 9 · 中等 79 · 困难 13_
+_按难度分布：简单 9 · 中等 80 · 困难 13_
 <!-- STATS:END -->
 
 ---
