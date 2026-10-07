@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-98-blue)
+![Notes](https://img.shields.io/badge/notes-99-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -191,6 +191,7 @@ date: 2026-09-13
 | 3924 | [有限重边的最小阈值路径](05-binary-search/3924-%E6%9C%89%E9%99%90%E9%87%8D%E8%BE%B9%E7%9A%84%E6%9C%80%E5%B0%8F%E9%98%88%E5%80%BC%E8%B7%AF%E5%BE%84.md) | 🔴 困难 | 二分答案 · 0-1 BFS · 最短路 · 图 | [LeetCode](https://leetcode.cn/problems/minimum-threshold-path-with-limited-heavy-edges/) |
 | 4008 | [击败所有怪物的最小初始强度](05-binary-search/4008-%E5%87%BB%E8%B4%A5%E6%89%80%E6%9C%89%E6%80%AA%E7%89%A9%E7%9A%84%E6%9C%80%E5%B0%8F%E5%88%9D%E5%A7%8B%E5%BC%BA%E5%BA%A6.md) | 🟡 中等 | 二分查找 · 数组 · 前缀和 · 差分数组 | [LeetCode](https://leetcode.cn/problems/minimum-initial-strength-to-defeat-all-monsters/) |
 | LCP 08 | [剧情触发时间](05-binary-search/LCP%2008-%E5%89%A7%E6%83%85%E8%A7%A6%E5%8F%91%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 二分查找 · 前缀和 | [LeetCode](https://leetcode.cn/problems/ju-qing-hong-fa-shi-jian/) |
+| LCP 78 | [城墙防线](05-binary-search/LCP%2078-%E5%9F%8E%E5%A2%99%E9%98%B2%E7%BA%BF.md) | 🟡 中等 | 二分答案 · 贪心 | [LeetCode](https://leetcode.cn/problems/Nsibyl/) |
 <!-- INDEX:END -->
 
 ---
@@ -201,10 +202,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 47 |
-| **合计** | **98** |
+| 二分查找 | 48 |
+| **合计** | **99** |
 
-_按难度分布：简单 9 · 中等 76 · 困难 13_
+_按难度分布：简单 9 · 中等 77 · 困难 13_
 <!-- STATS:END -->
 
 ---
