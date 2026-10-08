@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-107-blue)
+![Notes](https://img.shields.io/badge/notes-108-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -169,6 +169,7 @@ date: 2026-09-13
 | 1818 | [绝对差值和](05-binary-search/1818-%E7%BB%9D%E5%AF%B9%E5%B7%AE%E5%80%BC%E5%92%8C.md) | 🟡 中等 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/minimum-absolute-sum-difference/) |
 | 1891 | [割绳子](05-binary-search/1891-%E5%89%B2%E7%BB%B3%E5%AD%90.md) | 🟡 中等 | 二分 | [LeetCode](https://leetcode.cn/problems/cutting-ribbons/) |
 | 1898 | [可移除字符的最大数目](05-binary-search/1898-%E5%8F%AF%E7%A7%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-number-of-removable-characters/) |
+| 2064 | [分配给商店的最多商品的最小值](05-binary-search/2064-%E5%88%86%E9%85%8D%E7%BB%99%E5%95%86%E5%BA%97%E7%9A%84%E6%9C%80%E5%A4%9A%E5%95%86%E5%93%81%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md) | 🟡 中等 | 二分查找 · 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/) |
 | 2071 | [你可以安排的最多任务数目](05-binary-search/2071-%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%AE%89%E6%8E%92%E7%9A%84%E6%9C%80%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%95%B0%E7%9B%AE.md) | 🔴 困难 | 数组 · 二分查找 · 贪心 · 队列 | [LeetCode](https://leetcode.cn/problems/maximum-number-of-tasks-you-can-assign/) |
 | 2080 | [区间内查询数字的频率](05-binary-search/2080-%E5%8C%BA%E9%97%B4%E5%86%85%E6%9F%A5%E8%AF%A2%E6%95%B0%E5%AD%97%E7%9A%84%E9%A2%91%E7%8E%87.md) | 🟡 中等 | 设计 · 线段树 · 数组 · 哈希表 · 二分查找 | [LeetCode](https://leetcode.cn/problems/range-frequency-queries/) |
 | 2137 | [通过倒水操作让所有的水桶所含水量相等](05-binary-search/2137-%E9%80%9A%E8%BF%87%E5%80%92%E6%B0%B4%E6%93%8D%E4%BD%9C%E8%AE%A9%E6%89%80%E6%9C%89%E7%9A%84%E6%B0%B4%E6%A1%B6%E6%89%80%E5%90%AB%E6%B0%B4%E9%87%8F%E7%9B%B8%E7%AD%89.md) | 🟡 中等 | 二分 · 数组 | [LeetCode](https://leetcode.cn/problems/pour-water-between-buckets-to-make-water-levels-equal/) |
@@ -210,10 +211,10 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 56 |
-| **合计** | **107** |
+| 二分查找 | 57 |
+| **合计** | **108** |
 
-_按难度分布：简单 9 · 中等 83 · 困难 15_
+_按难度分布：简单 9 · 中等 84 · 困难 15_
 <!-- STATS:END -->
 
 ---
