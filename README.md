@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-108-blue)
+![Notes](https://img.shields.io/badge/notes-109-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -201,6 +201,12 @@ date: 2026-09-13
 | 4008 | [击败所有怪物的最小初始强度](05-binary-search/4008-%E5%87%BB%E8%B4%A5%E6%89%80%E6%9C%89%E6%80%AA%E7%89%A9%E7%9A%84%E6%9C%80%E5%B0%8F%E5%88%9D%E5%A7%8B%E5%BC%BA%E5%BA%A6.md) | 🟡 中等 | 二分查找 · 数组 · 前缀和 · 差分数组 | [LeetCode](https://leetcode.cn/problems/minimum-initial-strength-to-defeat-all-monsters/) |
 | LCP 08 | [剧情触发时间](05-binary-search/LCP%2008-%E5%89%A7%E6%83%85%E8%A7%A6%E5%8F%91%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 二分查找 · 前缀和 | [LeetCode](https://leetcode.cn/problems/ju-qing-hong-fa-shi-jian/) |
 | LCP 78 | [城墙防线](05-binary-search/LCP%2078-%E5%9F%8E%E5%A2%99%E9%98%B2%E7%BA%BF.md) | 🟡 中等 | 二分答案 · 贪心 | [LeetCode](https://leetcode.cn/problems/Nsibyl/) |
+
+### 常用数据结构 <sub>`17-data-structures`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 3613 | [最小化连通分量的最大成本](17-data-structures/3613-%E6%9C%80%E5%B0%8F%E5%8C%96%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F%E7%9A%84%E6%9C%80%E5%A4%A7%E6%88%90%E6%9C%AC.md) | 🟡 中等 | 并查集 · 图 · 排序 · 贪心 | [LeetCode](https://leetcode.cn/problems/minimize-maximum-component-cost/) |
 <!-- INDEX:END -->
 
 ---
@@ -212,9 +218,10 @@ date: 2026-09-13
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 57 |
-| **合计** | **108** |
+| 常用数据结构 | 1 |
+| **合计** | **109** |
 
-_按难度分布：简单 9 · 中等 84 · 困难 15_
+_按难度分布：简单 9 · 中等 85 · 困难 15_
 <!-- STATS:END -->
 
 ---
