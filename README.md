@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-116-blue)
+![Notes](https://img.shields.io/badge/notes-117-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -197,6 +197,7 @@ date: 2026-09-13
 | 3007 | [价值和小于等于 K 的最大数字](05-binary-search/3007-%E4%BB%B7%E5%80%BC%E5%92%8C%E5%B0%8F%E4%BA%8E%E7%AD%89%E4%BA%8E%20K%20%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E5%AD%97.md) | 🟡 中等 | 二分查找 · 数位 DP · 位运算 | [LeetCode](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) |
 | 3048 | [标记所有下标的最早秒数 I](05-binary-search/3048-%E6%A0%87%E8%AE%B0%E6%89%80%E6%9C%89%E4%B8%8B%E6%A0%87%E7%9A%84%E6%9C%80%E6%97%A9%E7%A7%92%E6%95%B0%20I.md) | 🟡 中等 | 数组 · 二分查找 · 贪心 | [LeetCode](https://leetcode.cn/problems/earliest-second-to-mark-indices-i/) |
 | 3143 | [正方形中的最多点数](05-binary-search/3143-%E6%AD%A3%E6%96%B9%E5%BD%A2%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%9A%E7%82%B9%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-points-inside-the-square/) |
+| 3281 | [范围内整数的最大得分](05-binary-search/3281-%E8%8C%83%E5%9B%B4%E5%86%85%E6%95%B4%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.md) | 🟡 中等 | 数组 · 二分查找 · 贪心 · 排序 | [LeetCode](https://leetcode.cn/problems/maximize-score-of-numbers-in-ranges/) |
 | 3296 | [移山所需的最少秒数](05-binary-search/3296-%E7%A7%BB%E5%B1%B1%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%92%E6%95%B0.md) | 🟡 中等 | 二分查找 · 二分答案 · 数组 · 数学 | [LeetCode](https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) |
 | 3344 | [最大尺寸数组](05-binary-search/3344-%E6%9C%80%E5%A4%A7%E5%B0%BA%E5%AF%B8%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 位运算 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximum-sized-array/) |
 | 3419 | [图的最大边权的最小值](05-binary-search/3419-%E5%9B%BE%E7%9A%84%E6%9C%80%E5%A4%A7%E8%BE%B9%E6%9D%83%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md) | 🟡 中等 | 二分答案 · 图 · 深度优先搜索 | [LeetCode](https://leetcode.cn/problems/minimize-the-maximum-edge-weight-of-graph/) |
@@ -224,11 +225,11 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 64 |
+| 二分查找 | 65 |
 | 常用数据结构 | 1 |
-| **合计** | **116** |
+| **合计** | **117** |
 
-_按难度分布：简单 9 · 中等 91 · 困难 16_
+_按难度分布：简单 9 · 中等 92 · 困难 16_
 <!-- STATS:END -->
 
 ---
