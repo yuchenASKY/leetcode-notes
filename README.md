@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-123-blue)
+![Notes](https://img.shields.io/badge/notes-124-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -164,6 +164,7 @@ date: 2026-09-13
 | 1146 | [快照数组](05-binary-search/1146-%E5%BF%AB%E7%85%A7%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 设计 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/snapshot-array/) |
 | 1170 | [比较字符串最小字母出现频次](05-binary-search/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1.md) | 🟡 中等 | 数组 · 字符串 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) |
 | 1182 | [与目标颜色间的最短距离](05-binary-search/1182-%E4%B8%8E%E7%9B%AE%E6%A0%87%E9%A2%9C%E8%89%B2%E9%97%B4%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md) | 🟡 中等 | 数组 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/shortest-distance-to-target-color/) |
+| 1201 | [丑数 III](05-binary-search/1201-%E4%B8%91%E6%95%B0%20III.md) | 🟡 中等 | 数学 · 二分查找 · 容斥原理 | [LeetCode](https://leetcode.cn/problems/ugly-number-iii/) |
 | 1283 | [使结果不超过阈值的最小除数](05-binary-search/1283-%E4%BD%BF%E7%BB%93%E6%9E%9C%E4%B8%8D%E8%B6%85%E8%BF%87%E9%98%88%E5%80%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E9%99%A4%E6%95%B0.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/find-the-smallest-divisor-given-a-threshold/) |
 | 1385 | [两个数组间的距离值](05-binary-search/1385-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%80%BC.md) | 🟢 简单 | 数组 · 二分查找 · 排序 | [LeetCode](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) |
 | 1482 | [制作 m 束花所需的最少天数](05-binary-search/1482-%E5%88%B6%E4%BD%9C%20m%20%E6%9D%9F%E8%8A%B1%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%91%E5%A4%A9%E6%95%B0.md) | 🟡 中等 | 二分 · 数组 | [LeetCode](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) |
@@ -231,11 +232,11 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 71 |
+| 二分查找 | 72 |
 | 常用数据结构 | 1 |
-| **合计** | **123** |
+| **合计** | **124** |
 
-_按难度分布：简单 9 · 中等 94 · 困难 20_
+_按难度分布：简单 9 · 中等 95 · 困难 20_
 <!-- STATS:END -->
 
 ---
