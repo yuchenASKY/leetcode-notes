@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-120-blue)
+![Notes](https://img.shields.io/badge/notes-121-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -146,6 +146,7 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](05-binary-search/34-%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 275 | [H 指数 II](05-binary-search/275-H%20%E6%8C%87%E6%95%B0%20II.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/h-index-ii/) |
+| 378 | [有序矩阵中第 K 小的元素](05-binary-search/378-%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md) | 🟡 中等 | 数组 · 二分查找 · 矩阵 · 堆（优先队列） · 排序 | [LeetCode](https://leetcode.cn/problems/kth-smallest-element-in-a-sorted-matrix/) |
 | 410 | [分割数组的最大值](05-binary-search/410-%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 🔴 困难 | 二分 · 二分答案 · 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/split-array-largest-sum/) |
 | 475 | [供暖器](05-binary-search/475-%E4%BE%9B%E6%9A%96%E5%99%A8.md) | 🟡 中等 | 二分 · 数组 · 排序 | [LeetCode](https://leetcode.cn/problems/heaters/) |
 | 644 | [子数组最大平均数 II](05-binary-search/644-%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20II.md) | 🔴 困难 | 数组 · 二分查找 · 前缀和 | [LeetCode](https://leetcode.cn/problems/maximum-average-subarray-ii/) |
@@ -228,11 +229,11 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 68 |
+| 二分查找 | 69 |
 | 常用数据结构 | 1 |
-| **合计** | **120** |
+| **合计** | **121** |
 
-_按难度分布：简单 9 · 中等 93 · 困难 18_
+_按难度分布：简单 9 · 中等 94 · 困难 18_
 <!-- STATS:END -->
 
 ---
