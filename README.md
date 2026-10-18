@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-122-blue)
+![Notes](https://img.shields.io/badge/notes-123-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -157,6 +157,7 @@ date: 2026-09-13
 | 744 | [寻找比目标字母大的最小字母](05-binary-search/744-%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 🟢 简单 | 二分查找 · 数组 | [LeetCode](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) |
 | 778 | [水位上升的泳池中游泳](05-binary-search/778-%E6%B0%B4%E4%BD%8D%E4%B8%8A%E5%8D%87%E7%9A%84%E6%B3%B3%E6%B1%A0%E4%B8%AD%E6%B8%B8%E6%B3%B3.md) | 🔴 困难 | 二分答案 · 广度优先搜索 · 深度优先搜索 · 并查集 · 矩阵 | [LeetCode](https://leetcode.cn/problems/swim-in-rising-water/) |
 | 875 | [爱吃香蕉的珂珂](05-binary-search/875-%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/koko-eating-bananas/) |
+| 878 | [第 N 个神奇数字](05-binary-search/878-%E7%AC%ACN%E4%B8%AA%E7%A5%9E%E5%A5%87%E6%95%B0%E5%AD%97.md) | 🔴 困难 | 二分查找 · 数学 | [LeetCode](https://leetcode.cn/problems/nth-magical-number/) |
 | 911 | [在线选举](05-binary-search/911-%E5%9C%A8%E7%BA%BF%E9%80%89%E4%B8%BE.md) | 🟡 中等 | 设计 · 数组 · 二分查找 · 哈希表 | [LeetCode](https://leetcode.cn/problems/online-election/) |
 | 981 | [基于时间的键值存储](05-binary-search/981-%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 🟡 中等 | 设计 · 哈希表 · 字符串 · 二分查找 | [LeetCode](https://leetcode.cn/problems/time-based-key-value-store/) |
 | 1011 | [在 D 天内送达包裹的能力](05-binary-search/1011-%E5%9C%A8D%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md) | 🟡 中等 | 数组 · 二分查找 | [LeetCode](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/) |
@@ -230,11 +231,11 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 双指针与滑动窗口 | 51 |
-| 二分查找 | 70 |
+| 二分查找 | 71 |
 | 常用数据结构 | 1 |
-| **合计** | **122** |
+| **合计** | **123** |
 
-_按难度分布：简单 9 · 中等 94 · 困难 19_
+_按难度分布：简单 9 · 中等 94 · 困难 20_
 <!-- STATS:END -->
 
 ---
