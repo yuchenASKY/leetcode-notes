@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-130-blue)
+![Notes](https://img.shields.io/badge/notes-131-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -84,6 +84,12 @@ date: 2026-09-13
 ## 笔记索引
 
 <!-- INDEX:START -->
+### 数组 <sub>`01-array`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 121 | [买卖股票的最佳时机](01-array/121-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 🟢 简单 | 数组 · 动态规划 | [LeetCode](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+
 ### 哈希表 <sub>`03-hash-table`</sub>
 
 | # | 题目 | 难度 | 标签 | 原题 |
@@ -242,13 +248,14 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
+| 数组 | 1 |
 | 哈希表 | 3 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 常用数据结构 | 1 |
-| **合计** | **130** |
+| **合计** | **131** |
 
-_按难度分布：简单 15 · 中等 95 · 困难 20_
+_按难度分布：简单 16 · 中等 95 · 困难 20_
 <!-- STATS:END -->
 
 ---
