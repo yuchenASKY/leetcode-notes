@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-142-blue)
+![Notes](https://img.shields.io/badge/notes-143-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -96,6 +96,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 1 | [两数之和](03-hash-table/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 🟢 简单 | 数据结构 · 哈希表 · 数组 | [LeetCode](https://leetcode.cn/problems/two-sum/) |
+| 454 | [四数相加 II](03-hash-table/454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/4sum-ii/) |
 | 1010 | [总持续时间可被 60 整除的歌曲](03-hash-table/1010-%E6%80%BB%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E5%8F%AF%E8%A2%AB%2060%20%E6%95%B4%E9%99%A4%E7%9A%84%E6%AD%8C%E6%9B%B2.md) | 🟡 中等 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
 | 1512 | [好数对的数目](03-hash-table/1512-%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/number-of-good-pairs/) |
 | 2441 | [与对应负数同时存在的最大正整数](03-hash-table/2441-%E4%B8%8E%E5%AF%B9%E5%BA%94%E8%B4%9F%E6%95%B0%E5%90%8C%E6%97%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%95%B4%E6%95%B0.md) | 🟢 简单 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/) |
@@ -270,15 +271,15 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 数组 | 2 |
-| 哈希表 | 9 |
+| 哈希表 | 10 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 1 |
 | 贪心 | 1 |
 | 常用数据结构 | 3 |
-| **合计** | **142** |
+| **合计** | **143** |
 
-_按难度分布：简单 19 · 中等 103 · 困难 20_
+_按难度分布：简单 19 · 中等 104 · 困难 20_
 <!-- STATS:END -->
 
 ---
