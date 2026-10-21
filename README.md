@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-143-blue)
+![Notes](https://img.shields.io/badge/notes-144-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -104,6 +104,7 @@ date: 2026-09-13
 | 2905 | [找出满足差值条件的下标 II](03-hash-table/2905-%E6%89%BE%E5%87%BA%E6%BB%A1%E8%B6%B3%E5%B7%AE%E5%80%BC%E6%9D%A1%E4%BB%B6%E7%9A%84%E4%B8%8B%E6%A0%87%20II.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/) |
 | 2964 | [可被整除的三元组数量](03-hash-table/2964-%E5%8F%AF%E8%A2%AB%E6%95%B4%E9%99%A4%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/number-of-divisible-triplet-sums/) |
 | 3185 | [构成整天的下标对数目 II](03-hash-table/3185-%E6%9E%84%E6%88%90%E6%95%B4%E5%A4%A9%E7%9A%84%E4%B8%8B%E6%A0%87%E5%AF%B9%E6%95%B0%E7%9B%AE%20II.md) | 🟡 中等 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-ii/) |
+| 3583 | [统计特殊三元组](03-hash-table/3583-%E7%BB%9F%E8%AE%A1%E7%89%B9%E6%AE%8A%E4%B8%89%E5%85%83%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/count-special-triplets/) |
 | 3837 | [相等元素的延迟计数](03-hash-table/3837-%E7%9B%B8%E7%AD%89%E5%85%83%E7%B4%A0%E7%9A%84%E5%BB%B6%E8%BF%9F%E8%AE%A1%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/delayed-count-of-equal-elements/) |
 
 ### 双指针与滑动窗口 <sub>`04-two-pointers`</sub>
@@ -271,15 +272,15 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 数组 | 2 |
-| 哈希表 | 10 |
+| 哈希表 | 11 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 1 |
 | 贪心 | 1 |
 | 常用数据结构 | 3 |
-| **合计** | **143** |
+| **合计** | **144** |
 
-_按难度分布：简单 19 · 中等 104 · 困难 20_
+_按难度分布：简单 19 · 中等 105 · 困难 20_
 <!-- STATS:END -->
 
 ---
