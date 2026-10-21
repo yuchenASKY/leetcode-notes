@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-141-blue)
+![Notes](https://img.shields.io/badge/notes-142-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -247,6 +247,12 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 1214 | [查找两棵二叉搜索树之和](09-tree/1214-%E6%9F%A5%E6%89%BE%E4%B8%A4%E6%A3%B5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B9%8B%E5%92%8C.md) | 🟡 中等 | 树 · 二叉搜索树 · 中序遍历 · 双指针 | [LeetCode](https://leetcode.cn/problems/two-sum-bsts/) |
 
+### 贪心 <sub>`11-greedy`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 2078 | [两栋颜色不同且距离最远的房子](11-greedy/2078-%E4%B8%A4%E6%A0%8B%E9%A2%9C%E8%89%B2%E4%B8%8D%E5%90%8C%E4%B8%94%E8%B7%9D%E7%A6%BB%E6%9C%80%E8%BF%9C%E7%9A%84%E6%88%BF%E5%AD%90.md) | 🟢 简单 | 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/two-furthest-houses-with-different-colors/) |
+
 ### 常用数据结构 <sub>`17-data-structures`</sub>
 
 | # | 题目 | 难度 | 标签 | 原题 |
@@ -268,10 +274,11 @@ date: 2026-09-13
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 1 |
+| 贪心 | 1 |
 | 常用数据结构 | 3 |
-| **合计** | **141** |
+| **合计** | **142** |
 
-_按难度分布：简单 18 · 中等 103 · 困难 20_
+_按难度分布：简单 19 · 中等 103 · 困难 20_
 <!-- STATS:END -->
 
 ---
