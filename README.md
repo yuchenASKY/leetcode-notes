@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-139-blue)
+![Notes](https://img.shields.io/badge/notes-140-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -100,6 +100,7 @@ date: 2026-09-13
 | 2441 | [与对应负数同时存在的最大正整数](03-hash-table/2441-%E4%B8%8E%E5%AF%B9%E5%BA%94%E8%B4%9F%E6%95%B0%E5%90%8C%E6%97%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%95%B4%E6%95%B0.md) | 🟢 简单 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/) |
 | 2748 | [美丽下标对的数目](03-hash-table/2748-%E7%BE%8E%E4%B8%BD%E4%B8%8B%E6%A0%87%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数组 · 哈希表 · 数学 · 计数 | [LeetCode](https://leetcode.cn/problems/number-of-beautiful-pairs/) |
 | 2905 | [找出满足差值条件的下标 II](03-hash-table/2905-%E6%89%BE%E5%87%BA%E6%BB%A1%E8%B6%B3%E5%B7%AE%E5%80%BC%E6%9D%A1%E4%BB%B6%E7%9A%84%E4%B8%8B%E6%A0%87%20II.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/) |
+| 2964 | [可被整除的三元组数量](03-hash-table/2964-%E5%8F%AF%E8%A2%AB%E6%95%B4%E9%99%A4%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/number-of-divisible-triplet-sums/) |
 | 3185 | [构成整天的下标对数目 II](03-hash-table/3185-%E6%9E%84%E6%88%90%E6%95%B4%E5%A4%A9%E7%9A%84%E4%B8%8B%E6%A0%87%E5%AF%B9%E6%95%B0%E7%9B%AE%20II.md) | 🟡 中等 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/count-pairs-that-form-a-complete-day-ii/) |
 | 3837 | [相等元素的延迟计数](03-hash-table/3837-%E7%9B%B8%E7%AD%89%E5%85%83%E7%B4%A0%E7%9A%84%E5%BB%B6%E8%BF%9F%E8%AE%A1%E6%95%B0.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/delayed-count-of-equal-elements/) |
 
@@ -262,14 +263,14 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 数组 | 1 |
-| 哈希表 | 8 |
+| 哈希表 | 9 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 1 |
 | 常用数据结构 | 3 |
-| **合计** | **139** |
+| **合计** | **140** |
 
-_按难度分布：简单 17 · 中等 102 · 困难 20_
+_按难度分布：简单 17 · 中等 103 · 困难 20_
 <!-- STATS:END -->
 
 ---
