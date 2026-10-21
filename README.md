@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-146-blue)
+![Notes](https://img.shields.io/badge/notes-147-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -89,6 +89,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 121 | [买卖股票的最佳时机](01-array/121-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 🟢 简单 | 数组 · 动态规划 | [LeetCode](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+| 2909 | [元素和最小的山形三元组 II](01-array/2909-%E5%85%83%E7%B4%A0%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E5%B1%B1%E5%BD%A2%E4%B8%89%E5%85%83%E7%BB%84%20II.md) | 🟡 中等 | 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-ii/) |
 | 3917 | [统计下标的相反奇偶性得分](01-array/3917-%E7%BB%9F%E8%AE%A1%E4%B8%8B%E6%A0%87%E7%9A%84%E7%9B%B8%E5%8F%8D%E5%A5%87%E5%81%B6%E6%80%A7%E5%BE%97%E5%88%86.md) | 🟢 简单 | 数组 | [LeetCode](https://leetcode.cn/problems/count-indices-with-opposite-parity/) |
 
 ### 哈希表 <sub>`03-hash-table`</sub>
@@ -273,16 +274,16 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 数组 | 2 |
+| 数组 | 3 |
 | 哈希表 | 13 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 1 |
 | 贪心 | 1 |
 | 常用数据结构 | 3 |
-| **合计** | **146** |
+| **合计** | **147** |
 
-_按难度分布：简单 19 · 中等 107 · 困难 20_
+_按难度分布：简单 19 · 中等 108 · 困难 20_
 <!-- STATS:END -->
 
 ---
