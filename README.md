@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-156-blue)
+![Notes](https://img.shields.io/badge/notes-157-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -276,6 +276,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 456 | [132 模式](17-data-structures/456-132%20%E6%A8%A1%E5%BC%8F.md) | 🟡 中等 | 栈 · 数组 · 二分查找 · 有序集合 · 单调栈 | [LeetCode](https://leetcode.cn/problems/132-pattern/) |
+| 1424 | [对角线遍历 II](17-data-structures/1424-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86%20II.md) | 🟡 中等 | 数组 · 排序 · 堆（优先队列） | [LeetCode](https://leetcode.cn/problems/diagonal-traverse-ii/) |
 | 2555 | [两个线段获得的最多奖品](17-data-structures/2555-%E4%B8%A4%E4%B8%AA%E7%BA%BF%E6%AE%B5%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%9A%E5%A5%96%E5%93%81.md) | 🟡 中等 | 数组 · 滑动窗口 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximize-win-from-two-segments/) |
 | 3613 | [最小化连通分量的最大成本](17-data-structures/3613-%E6%9C%80%E5%B0%8F%E5%8C%96%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F%E7%9A%84%E6%9C%80%E5%A4%A7%E6%88%90%E6%9C%AC.md) | 🟡 中等 | 并查集 · 图 · 排序 · 贪心 | [LeetCode](https://leetcode.cn/problems/minimize-maximum-component-cost/) |
 | 3907 | [统计具有相反奇偶性的较小元素](17-data-structures/3907-%E7%BB%9F%E8%AE%A1%E5%85%B7%E6%9C%89%E7%9B%B8%E5%8F%8D%E5%A5%87%E5%81%B6%E6%80%A7%E7%9A%84%E8%BE%83%E5%B0%8F%E5%85%83%E7%B4%A0.md) | 🟡 中等 | 数据结构 · 有序集合 · 二分查找 · 数组 | [LeetCode](https://leetcode.cn/problems/count-smaller-elements-with-opposite-parity/) |
@@ -295,10 +296,10 @@ date: 2026-09-13
 | 树 | 2 |
 | 贪心 | 1 |
 | 动态规划 | 1 |
-| 常用数据结构 | 4 |
-| **合计** | **156** |
+| 常用数据结构 | 5 |
+| **合计** | **157** |
 
-_按难度分布：简单 20 · 中等 116 · 困难 20_
+_按难度分布：简单 20 · 中等 117 · 困难 20_
 <!-- STATS:END -->
 
 ---
