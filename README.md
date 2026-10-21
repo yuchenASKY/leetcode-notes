@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-155-blue)
+![Notes](https://img.shields.io/badge/notes-156-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -265,6 +265,12 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 2078 | [两栋颜色不同且距离最远的房子](11-greedy/2078-%E4%B8%A4%E6%A0%8B%E9%A2%9C%E8%89%B2%E4%B8%8D%E5%90%8C%E4%B8%94%E8%B7%9D%E7%A6%BB%E6%9C%80%E8%BF%9C%E7%9A%84%E6%88%BF%E5%AD%90.md) | 🟢 简单 | 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/two-furthest-houses-with-different-colors/) |
 
+### 动态规划 <sub>`12-dynamic-programming`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 562 | [矩阵中最长的连续1线段](12-dynamic-programming/562-%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%9C%80%E9%95%BF%E7%9A%84%E8%BF%9E%E7%BB%AD1%E7%BA%BF%E6%AE%B5.md) | 🟡 中等 | 数组 · 动态规划 · 矩阵 | [LeetCode](https://leetcode.cn/problems/longest-line-of-consecutive-one-in-matrix/) |
+
 ### 常用数据结构 <sub>`17-data-structures`</sub>
 
 | # | 题目 | 难度 | 标签 | 原题 |
@@ -288,10 +294,11 @@ date: 2026-09-13
 | 二分查找 | 75 |
 | 树 | 2 |
 | 贪心 | 1 |
+| 动态规划 | 1 |
 | 常用数据结构 | 4 |
-| **合计** | **155** |
+| **合计** | **156** |
 
-_按难度分布：简单 20 · 中等 115 · 困难 20_
+_按难度分布：简单 20 · 中等 116 · 困难 20_
 <!-- STATS:END -->
 
 ---
