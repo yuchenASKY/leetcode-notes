@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-149-blue)
+![Notes](https://img.shields.io/badge/notes-150-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -252,6 +252,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 1214 | [查找两棵二叉搜索树之和](09-tree/1214-%E6%9F%A5%E6%89%BE%E4%B8%A4%E6%A3%B5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B9%8B%E5%92%8C.md) | 🟡 中等 | 树 · 二叉搜索树 · 中序遍历 · 双指针 | [LeetCode](https://leetcode.cn/problems/two-sum-bsts/) |
+| 3067 | [在带权树网络中统计可连接服务器对数目](09-tree/3067-%E5%9C%A8%E5%B8%A6%E6%9D%83%E6%A0%91%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%BB%9F%E8%AE%A1%E5%8F%AF%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AF%B9%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 树 · 深度优先搜索 · 数组 | [LeetCode](https://leetcode.cn/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) |
 
 ### 贪心 <sub>`11-greedy`</sub>
 
@@ -280,12 +281,12 @@ date: 2026-09-13
 | 哈希表 | 13 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
-| 树 | 1 |
+| 树 | 2 |
 | 贪心 | 1 |
 | 常用数据结构 | 4 |
-| **合计** | **149** |
+| **合计** | **150** |
 
-_按难度分布：简单 19 · 中等 110 · 困难 20_
+_按难度分布：简单 19 · 中等 111 · 困难 20_
 <!-- STATS:END -->
 
 ---
