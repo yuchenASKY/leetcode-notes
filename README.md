@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-157-blue)
+![Notes](https://img.shields.io/badge/notes-158-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -89,6 +89,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 121 | [买卖股票的最佳时机](01-array/121-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 🟢 简单 | 数组 · 动态规划 | [LeetCode](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+| 303 | [区域和检索 - 数组不可变](01-array/303-%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md) | 🟢 简单 | 设计 · 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/range-sum-query-immutable/) |
 | 498 | [对角线遍历](01-array/498-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86.md) | 🟡 中等 | 数组 · 矩阵 · 模拟 | [LeetCode](https://leetcode.cn/problems/diagonal-traverse/) |
 | 1329 | [将矩阵按对角线排序](01-array/1329-%E5%B0%86%E7%9F%A9%E9%98%B5%E6%8C%89%E5%AF%B9%E8%A7%92%E7%BA%BF%E6%8E%92%E5%BA%8F.md) | 🟡 中等 | 数组 · 矩阵 · 排序 | [LeetCode](https://leetcode.cn/problems/sort-the-matrix-diagonally/) |
 | 1534 | [统计好三元组](01-array/1534-%E7%BB%9F%E8%AE%A1%E5%A5%BD%E4%B8%89%E5%85%83%E7%BB%84.md) | 🟢 简单 | 数组 · 枚举 | [LeetCode](https://leetcode.cn/problems/count-good-triplets/) |
@@ -289,7 +290,7 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 数组 | 8 |
+| 数组 | 9 |
 | 哈希表 | 14 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
@@ -297,9 +298,9 @@ date: 2026-09-13
 | 贪心 | 1 |
 | 动态规划 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **157** |
+| **合计** | **158** |
 
-_按难度分布：简单 20 · 中等 117 · 困难 20_
+_按难度分布：简单 21 · 中等 117 · 困难 20_
 <!-- STATS:END -->
 
 ---
