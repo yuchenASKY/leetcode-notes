@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-160-blue)
+![Notes](https://img.shields.io/badge/notes-161-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -104,6 +104,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 2559 | [统计范围内的元音字符串数](02-string/2559-%E7%BB%9F%E8%AE%A1%E8%8C%83%E5%9B%B4%E5%86%85%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0.md) | 🟡 中等 | 数组 · 字符串 · 前缀和 | [LeetCode](https://leetcode.cn/problems/count-vowel-strings-in-ranges/) |
+| 3361 | [两个字符串的切换距离](02-string/3361-%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%87%E6%8D%A2%E8%B7%9D%E7%A6%BB.md) | 🟡 中等 | 数组 · 字符串 · 前缀和 | [LeetCode](https://leetcode.cn/problems/shift-distance-between-two-strings/) |
 
 ### 哈希表 <sub>`03-hash-table`</sub>
 
@@ -298,7 +299,7 @@ date: 2026-09-13
 | 题型 | 已整理题数 |
 | :--- | ---: |
 | 数组 | 10 |
-| 字符串 | 1 |
+| 字符串 | 2 |
 | 哈希表 | 14 |
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
@@ -306,9 +307,9 @@ date: 2026-09-13
 | 贪心 | 1 |
 | 动态规划 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **160** |
+| **合计** | **161** |
 
-_按难度分布：简单 22 · 中等 118 · 困难 20_
+_按难度分布：简单 22 · 中等 119 · 困难 20_
 <!-- STATS:END -->
 
 ---
