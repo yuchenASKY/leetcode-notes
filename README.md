@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-169-blue)
+![Notes](https://img.shields.io/badge/notes-170-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -119,6 +119,7 @@ date: 2026-09-13
 | 1512 | [好数对的数目](03-hash-table/1512-%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/number-of-good-pairs/) |
 | 1930 | [长度为 3 的不同回文子序列](03-hash-table/1930-%E9%95%BF%E5%BA%A6%E4%B8%BA%203%20%E7%9A%84%E4%B8%8D%E5%90%8C%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md) | 🟡 中等 | 位运算 · 哈希表 · 字符串 · 前缀和 | [LeetCode](https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/) |
 | 2441 | [与对应负数同时存在的最大正整数](03-hash-table/2441-%E4%B8%8E%E5%AF%B9%E5%BA%94%E8%B4%9F%E6%95%B0%E5%90%8C%E6%97%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%95%B4%E6%95%B0.md) | 🟢 简单 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/) |
+| 2488 | [统计中位数为 K 的子数组](03-hash-table/2488-%E7%BB%9F%E8%AE%A1%E4%B8%AD%E4%BD%8D%E6%95%B0%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🔴 困难 | 数组 · 哈希表 · 前缀和 | [LeetCode](https://leetcode.cn/problems/count-subarrays-with-median-k/) |
 | 2711 | [对角线上不同值的数量差](03-hash-table/2711-%E5%AF%B9%E8%A7%92%E7%BA%BF%E4%B8%8A%E4%B8%8D%E5%90%8C%E5%80%BC%E7%9A%84%E6%95%B0%E9%87%8F%E5%B7%AE.md) | 🟡 中等 | 数组 · 哈希表 · 矩阵 | [LeetCode](https://leetcode.cn/problems/difference-of-number-of-distinct-values-on-diagonals/) |
 | 2748 | [美丽下标对的数目](03-hash-table/2748-%E7%BE%8E%E4%B8%BD%E4%B8%8B%E6%A0%87%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数组 · 哈希表 · 数学 · 计数 | [LeetCode](https://leetcode.cn/problems/number-of-beautiful-pairs/) |
 | 2905 | [找出满足差值条件的下标 II](03-hash-table/2905-%E6%89%BE%E5%87%BA%E6%BB%A1%E8%B6%B3%E5%B7%AE%E5%80%BC%E6%9D%A1%E4%BB%B6%E7%9A%84%E4%B8%8B%E6%A0%87%20II.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/) |
@@ -313,7 +314,7 @@ date: 2026-09-13
 | :--- | ---: |
 | 数组 | 11 |
 | 字符串 | 3 |
-| 哈希表 | 16 |
+| 哈希表 | 17 |
 | 双指针与滑动窗口 | 52 |
 | 二分查找 | 75 |
 | 树 | 2 |
@@ -321,9 +322,9 @@ date: 2026-09-13
 | 动态规划 | 2 |
 | 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **169** |
+| **合计** | **170** |
 
-_按难度分布：简单 23 · 中等 126 · 困难 20_
+_按难度分布：简单 23 · 中等 126 · 困难 21_
 <!-- STATS:END -->
 
 ---
