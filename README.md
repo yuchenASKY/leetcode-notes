@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-163-blue)
+![Notes](https://img.shields.io/badge/notes-164-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -282,6 +282,12 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 562 | [矩阵中最长的连续1线段](12-dynamic-programming/562-%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%9C%80%E9%95%BF%E7%9A%84%E8%BF%9E%E7%BB%AD1%E7%BA%BF%E6%AE%B5.md) | 🟡 中等 | 数组 · 动态规划 · 矩阵 | [LeetCode](https://leetcode.cn/problems/longest-line-of-consecutive-one-in-matrix/) |
 
+### 数学 <sub>`16-math`</sub>
+
+| # | 题目 | 难度 | 标签 | 原题 |
+| ---: | :--- | :--- | :--- | :-: |
+| 1523 | [在区间范围内统计奇数数目](16-math/1523-%E5%9C%A8%E5%8C%BA%E9%97%B4%E8%8C%83%E5%9B%B4%E5%86%85%E7%BB%9F%E8%AE%A1%E5%A5%87%E6%95%B0%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数学 | [LeetCode](https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/) |
+
 ### 常用数据结构 <sub>`17-data-structures`</sub>
 
 | # | 题目 | 难度 | 标签 | 原题 |
@@ -308,10 +314,11 @@ date: 2026-09-13
 | 树 | 2 |
 | 贪心 | 2 |
 | 动态规划 | 1 |
+| 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **163** |
+| **合计** | **164** |
 
-_按难度分布：简单 22 · 中等 121 · 困难 20_
+_按难度分布：简单 23 · 中等 121 · 困难 20_
 <!-- STATS:END -->
 
 ---
