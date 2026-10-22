@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-172-blue)
+![Notes](https://img.shields.io/badge/notes-173-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -300,6 +300,7 @@ date: 2026-09-13
 
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
+| 363 | [矩形区域不超过 K 的最大数值和](17-data-structures/363-%E7%9F%A9%E5%BD%A2%E5%8C%BA%E5%9F%9F%E4%B8%8D%E8%B6%85%E8%BF%87%20K%20%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E5%80%BC%E5%92%8C.md) | 🔴 困难 | 数组 · 二分查找 · 矩阵 · 有序集合 · 前缀和 | [LeetCode](https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k/) |
 | 456 | [132 模式](17-data-structures/456-132%20%E6%A8%A1%E5%BC%8F.md) | 🟡 中等 | 栈 · 数组 · 二分查找 · 有序集合 · 单调栈 | [LeetCode](https://leetcode.cn/problems/132-pattern/) |
 | 1424 | [对角线遍历 II](17-data-structures/1424-%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86%20II.md) | 🟡 中等 | 数组 · 排序 · 堆（优先队列） | [LeetCode](https://leetcode.cn/problems/diagonal-traverse-ii/) |
 | 2555 | [两个线段获得的最多奖品](17-data-structures/2555-%E4%B8%A4%E4%B8%AA%E7%BA%BF%E6%AE%B5%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%9A%E5%A5%96%E5%93%81.md) | 🟡 中等 | 数组 · 滑动窗口 · 二分查找 | [LeetCode](https://leetcode.cn/problems/maximize-win-from-two-segments/) |
@@ -323,10 +324,10 @@ date: 2026-09-13
 | 贪心 | 2 |
 | 动态规划 | 2 |
 | 数学 | 1 |
-| 常用数据结构 | 5 |
-| **合计** | **172** |
+| 常用数据结构 | 6 |
+| **合计** | **173** |
 
-_按难度分布：简单 24 · 中等 127 · 困难 21_
+_按难度分布：简单 24 · 中等 127 · 困难 22_
 <!-- STATS:END -->
 
 ---
