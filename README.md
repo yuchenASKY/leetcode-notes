@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-167-blue)
+![Notes](https://img.shields.io/badge/notes-168-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -284,6 +284,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 562 | [矩阵中最长的连续1线段](12-dynamic-programming/562-%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%9C%80%E9%95%BF%E7%9A%84%E8%BF%9E%E7%BB%AD1%E7%BA%BF%E6%AE%B5.md) | 🟡 中等 | 数组 · 动态规划 · 矩阵 | [LeetCode](https://leetcode.cn/problems/longest-line-of-consecutive-one-in-matrix/) |
+| 1524 | [和为奇数的子数组数目](12-dynamic-programming/1524-%E5%92%8C%E4%B8%BA%E5%A5%87%E6%95%B0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 数学 · 动态规划 · 前缀和 | [LeetCode](https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum/) |
 
 ### 数学 <sub>`16-math`</sub>
 
@@ -316,12 +317,12 @@ date: 2026-09-13
 | 二分查找 | 75 |
 | 树 | 2 |
 | 贪心 | 2 |
-| 动态规划 | 1 |
+| 动态规划 | 2 |
 | 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **167** |
+| **合计** | **168** |
 
-_按难度分布：简单 23 · 中等 124 · 困难 20_
+_按难度分布：简单 23 · 中等 125 · 困难 20_
 <!-- STATS:END -->
 
 ---
