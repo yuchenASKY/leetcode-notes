@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-161-blue)
+![Notes](https://img.shields.io/badge/notes-162-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -273,6 +273,7 @@ date: 2026-09-13
 | # | 题目 | 难度 | 标签 | 原题 |
 | ---: | :--- | :--- | :--- | :-: |
 | 2078 | [两栋颜色不同且距离最远的房子](11-greedy/2078-%E4%B8%A4%E6%A0%8B%E9%A2%9C%E8%89%B2%E4%B8%8D%E5%90%8C%E4%B8%94%E8%B7%9D%E7%A6%BB%E6%9C%80%E8%BF%9C%E7%9A%84%E6%88%BF%E5%AD%90.md) | 🟢 简单 | 贪心 · 数组 | [LeetCode](https://leetcode.cn/problems/two-furthest-houses-with-different-colors/) |
+| 3511 | [构造正数组](11-greedy/3511-%E6%9E%84%E9%80%A0%E6%AD%A3%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 贪心 · 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/make-a-positive-array/) |
 
 ### 动态规划 <sub>`12-dynamic-programming`</sub>
 
@@ -304,12 +305,12 @@ date: 2026-09-13
 | 双指针与滑动窗口 | 51 |
 | 二分查找 | 75 |
 | 树 | 2 |
-| 贪心 | 1 |
+| 贪心 | 2 |
 | 动态规划 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **161** |
+| **合计** | **162** |
 
-_按难度分布：简单 22 · 中等 119 · 困难 20_
+_按难度分布：简单 22 · 中等 120 · 困难 20_
 <!-- STATS:END -->
 
 ---
