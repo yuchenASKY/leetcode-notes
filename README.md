@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-165-blue)
+![Notes](https://img.shields.io/badge/notes-166-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -181,6 +181,7 @@ date: 2026-09-13
 | 3795 | [不同元素和至少为 K 的最短子数组长度](04-two-pointers/3795-%E4%B8%8D%E5%90%8C%E5%85%83%E7%B4%A0%E5%92%8C%E8%87%B3%E5%B0%91%E4%B8%BA%20K%20%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84%E9%95%BF%E5%BA%A6.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) |
 | 3859 | [统计包含 K 个不同整数的子数组](04-two-pointers/3859-%E7%BB%9F%E8%AE%A1%E5%8C%85%E5%90%AB%20K%20%E4%B8%AA%E4%B8%8D%E5%90%8C%E6%95%B4%E6%95%B0%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🔴 困难 | 滑窗 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/count-subarrays-with-k-distinct-integers/) |
 | 4032 | [至多 K 个不同质因数集合的最长子数组](04-two-pointers/4032-%E8%87%B3%E5%A4%9AK%E4%B8%AA%E4%B8%8D%E5%90%8C%E8%B4%A8%E5%9B%A0%E6%95%B0%E9%9B%86%E5%90%88%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 · 数论 | [LeetCode](https://leetcode.cn/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) |
+| 4044 | [统计好循环移位的数量](04-two-pointers/4044-%E7%BB%9F%E8%AE%A1%E5%A5%BD%E5%BE%AA%E7%8E%AF%E7%A7%BB%E4%BD%8D%E7%9A%84%E6%95%B0%E9%87%8F.md) | 🟡 中等 | 数组 · 前缀和 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/count-good-cyclic-rotations/) |
 | LCP 68 | [美观的花束](04-two-pointers/LCP%2068-%E7%BE%8E%E8%A7%82%E7%9A%84%E8%8A%B1%E6%9D%9F.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/1GxJYY/) |
 
 ### 二分查找 <sub>`05-binary-search`</sub>
@@ -310,16 +311,16 @@ date: 2026-09-13
 | 数组 | 11 |
 | 字符串 | 3 |
 | 哈希表 | 14 |
-| 双指针与滑动窗口 | 51 |
+| 双指针与滑动窗口 | 52 |
 | 二分查找 | 75 |
 | 树 | 2 |
 | 贪心 | 2 |
 | 动态规划 | 1 |
 | 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **165** |
+| **合计** | **166** |
 
-_按难度分布：简单 23 · 中等 122 · 困难 20_
+_按难度分布：简单 23 · 中等 123 · 困难 20_
 <!-- STATS:END -->
 
 ---
