@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-171-blue)
+![Notes](https://img.shields.io/badge/notes-172-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -178,6 +178,7 @@ date: 2026-09-13
 | 3298 | [统计重新排列后包含另一个字符串的子字符串数目 II](04-two-pointers/3298-%E7%BB%9F%E8%AE%A1%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E5%90%8E%E5%8C%85%E5%90%AB%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0%E7%9B%AE%20II.md) | 🔴 困难 | 滑动窗口 · 哈希表 · 字符串 | [LeetCode](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) |
 | 3306 | [元音辅音字符串计数 II](04-two-pointers/3306-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%AE%A1%E6%95%B0%20II.md) | 🟡 中等 | 滑窗 · 字符串 · 哈希表 | [LeetCode](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) |
 | 3325 | [字符至少出现 K 次的子字符串 I](04-two-pointers/3325-%E5%AD%97%E7%AC%A6%E8%87%B3%E5%B0%91%E5%87%BA%E7%8E%B0K%E6%AC%A1%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2I.md) | 🟡 中等 | 滑动窗口 · 哈希表 · 字符串 · 计数 | [LeetCode](https://leetcode.cn/problems/count-substrings-with-k-frequency-characters-i/) |
+| 3364 | [最小正和子数组](04-two-pointers/3364-%E6%9C%80%E5%B0%8F%E6%AD%A3%E5%92%8C%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟢 简单 | 数组 · 前缀和 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/minimum-positive-sum-subarray/) |
 | 3439 | [重新安排会议得到最多空余时间 I](04-two-pointers/3439-%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E4%BC%9A%E8%AE%AE%E5%BE%97%E5%88%B0%E6%9C%80%E5%A4%9A%E7%A9%BA%E4%BD%99%E6%97%B6%E9%97%B4I.md) | 🟡 中等 | 数组 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) |
 | 3634 | [使数组平衡的最少移除数目](04-two-pointers/3634-%E4%BD%BF%E6%95%B0%E7%BB%84%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%BB%E9%99%A4%E6%95%B0%E7%9B%AE.md) | 🟡 中等 | 数组 · 排序 · 滑动窗口 · 双指针 | [LeetCode](https://leetcode.cn/problems/minimum-removals-to-balance-array/) |
 | 3641 | [最长半重复子数组](04-two-pointers/3641-%E6%9C%80%E9%95%BF%E5%8D%8A%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 滑动窗口 | [LeetCode](https://leetcode.cn/problems/longest-semi-repeating-subarray/) |
@@ -316,16 +317,16 @@ date: 2026-09-13
 | 数组 | 11 |
 | 字符串 | 3 |
 | 哈希表 | 18 |
-| 双指针与滑动窗口 | 52 |
+| 双指针与滑动窗口 | 53 |
 | 二分查找 | 75 |
 | 树 | 2 |
 | 贪心 | 2 |
 | 动态规划 | 2 |
 | 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **171** |
+| **合计** | **172** |
 
-_按难度分布：简单 23 · 中等 127 · 困难 21_
+_按难度分布：简单 24 · 中等 127 · 困难 21_
 <!-- STATS:END -->
 
 ---
