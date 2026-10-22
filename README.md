@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-162-blue)
+![Notes](https://img.shields.io/badge/notes-163-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -97,6 +97,7 @@ date: 2026-09-13
 | 2909 | [元素和最小的山形三元组 II](01-array/2909-%E5%85%83%E7%B4%A0%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E5%B1%B1%E5%BD%A2%E4%B8%89%E5%85%83%E7%BB%84%20II.md) | 🟡 中等 | 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-ii/) |
 | 3427 | [变长子数组求和](01-array/3427-%E5%8F%98%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84%E6%B1%82%E5%92%8C.md) | 🟢 简单 | 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/sum-of-variable-length-subarrays/) |
 | 3446 | [按对角线进行矩阵排序](01-array/3446-%E6%8C%89%E5%AF%B9%E8%A7%92%E7%BA%BF%E8%BF%9B%E8%A1%8C%E7%9F%A9%E9%98%B5%E6%8E%92%E5%BA%8F.md) | 🟡 中等 | 数组 · 矩阵 · 排序 | [LeetCode](https://leetcode.cn/problems/sort-matrix-by-diagonals/) |
+| 3540 | [访问所有房屋的最短时间](01-array/3540-%E8%AE%BF%E9%97%AE%E6%89%80%E6%9C%89%E6%88%BF%E5%B1%8B%E7%9A%84%E6%9C%80%E7%9F%AD%E6%97%B6%E9%97%B4.md) | 🟡 中等 | 数组 · 前缀和 | [LeetCode](https://leetcode.cn/problems/minimum-time-to-visit-all-houses/) |
 | 3917 | [统计下标的相反奇偶性得分](01-array/3917-%E7%BB%9F%E8%AE%A1%E4%B8%8B%E6%A0%87%E7%9A%84%E7%9B%B8%E5%8F%8D%E5%A5%87%E5%81%B6%E6%80%A7%E5%BE%97%E5%88%86.md) | 🟢 简单 | 数组 | [LeetCode](https://leetcode.cn/problems/count-indices-with-opposite-parity/) |
 
 ### 字符串 <sub>`02-string`</sub>
@@ -299,7 +300,7 @@ date: 2026-09-13
 <!-- STATS:START -->
 | 题型 | 已整理题数 |
 | :--- | ---: |
-| 数组 | 10 |
+| 数组 | 11 |
 | 字符串 | 2 |
 | 哈希表 | 14 |
 | 双指针与滑动窗口 | 51 |
@@ -308,9 +309,9 @@ date: 2026-09-13
 | 贪心 | 2 |
 | 动态规划 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **162** |
+| **合计** | **163** |
 
-_按难度分布：简单 22 · 中等 120 · 困难 20_
+_按难度分布：简单 22 · 中等 121 · 困难 20_
 <!-- STATS:END -->
 
 ---
