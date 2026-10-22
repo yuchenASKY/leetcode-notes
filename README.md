@@ -3,7 +3,7 @@
 > 我的 LeetCode 解题笔记仓库。
 > 每道题的**思路剖析、最优解法、复杂度评估与优化过程**都沉淀在这里 —— 不只是"抄答案"，而是记录**为什么这样解、还能不能更好**。
 
-![Notes](https://img.shields.io/badge/notes-166-blue)
+![Notes](https://img.shields.io/badge/notes-167-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
@@ -114,6 +114,7 @@ date: 2026-09-13
 | ---: | :--- | :--- | :--- | :-: |
 | 1 | [两数之和](03-hash-table/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 🟢 简单 | 数据结构 · 哈希表 · 数组 | [LeetCode](https://leetcode.cn/problems/two-sum/) |
 | 454 | [四数相加 II](03-hash-table/454-%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md) | 🟡 中等 | 数组 · 哈希表 | [LeetCode](https://leetcode.cn/problems/4sum-ii/) |
+| 560 | [和为 K 的子数组](03-hash-table/560-%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 🟡 中等 | 数组 · 哈希表 · 前缀和 | [LeetCode](https://leetcode.cn/problems/subarray-sum-equals-k/) |
 | 1010 | [总持续时间可被 60 整除的歌曲](03-hash-table/1010-%E6%80%BB%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E5%8F%AF%E8%A2%AB%2060%20%E6%95%B4%E9%99%A4%E7%9A%84%E6%AD%8C%E6%9B%B2.md) | 🟡 中等 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
 | 1512 | [好数对的数目](03-hash-table/1512-%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 🟢 简单 | 数组 · 哈希表 · 计数 | [LeetCode](https://leetcode.cn/problems/number-of-good-pairs/) |
 | 1930 | [长度为 3 的不同回文子序列](03-hash-table/1930-%E9%95%BF%E5%BA%A6%E4%B8%BA%203%20%E7%9A%84%E4%B8%8D%E5%90%8C%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md) | 🟡 中等 | 位运算 · 哈希表 · 字符串 · 前缀和 | [LeetCode](https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/) |
@@ -310,7 +311,7 @@ date: 2026-09-13
 | :--- | ---: |
 | 数组 | 11 |
 | 字符串 | 3 |
-| 哈希表 | 14 |
+| 哈希表 | 15 |
 | 双指针与滑动窗口 | 52 |
 | 二分查找 | 75 |
 | 树 | 2 |
@@ -318,9 +319,9 @@ date: 2026-09-13
 | 动态规划 | 1 |
 | 数学 | 1 |
 | 常用数据结构 | 5 |
-| **合计** | **166** |
+| **合计** | **167** |
 
-_按难度分布：简单 23 · 中等 123 · 困难 20_
+_按难度分布：简单 23 · 中等 124 · 困难 20_
 <!-- STATS:END -->
 
 ---
